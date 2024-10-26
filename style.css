@@ -1,0 +1,78 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.Heading-1 {
+    background-color: brown;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.Box {
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    /* margin-top: 8px; */
+    margin: auto;
+}
+
+.Paragraph {
+    background-color: yellowgreen;
+    padding-left: 10px;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Container {
+    background-color: rgb(127, 75, 231);
+    height: 250px;
+    width: 300px;
+    margin: auto;
+    border: 2px solid rgb(91, 91, 248);
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    margin: 0%;
+    padding: 3px;
+    background-color: rgb(100, 6, 6);
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+}
+
+.email-1 {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.password-1 {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.button-1 {
+    width: 100px;
+    padding: 7px;
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: darkgreen;
+    color: whitesmoke;
+    border-radius: 8px;
+}
